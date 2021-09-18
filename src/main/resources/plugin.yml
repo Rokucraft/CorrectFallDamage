@@ -1,0 +1,7 @@
+name: CorrectFallDamage
+version: '${version}'
+main: com.rokucraft.correctfalldamage.CorrectFallDamage
+api-version: 1.16
+authors: [ Aikovdp ]
+description: Corrects fall damage when negative jump boost is applied
+website: https://www.rokucraft.com/
