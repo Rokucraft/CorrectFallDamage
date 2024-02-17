@@ -3,6 +3,9 @@
 CorrectFallDamage is a Paper plugin that aims to correct fall damage for entities that have a negative level of Jump Boost applied to them.\
 Negative levels of Jump Boost can be used to limit or even entirely prevent jumping, but that causes entities to take additional fall damage, even from falls that would normallly do no damage. 
 This plugin prevents that from happening, so the Jump Boost status effect can freely be used to limit jumping without having to worry about changes in fall damage. Positive levels of Jump Boost are **not** affected.
+
+> [!NOTE]  
+> As of Minecraft snapshots 24w05a and 24w06a, this is no longer applicable. You should now use the new jump strength and fall damage attributes to control this behavior.
  
 ## Installation
 Simply drag and drop the plugin jar into your plugins folder and start your server!
